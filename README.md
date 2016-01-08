@@ -1,3 +1,20 @@
+# Renamed project fork to `hsh`
+
+Pronounced `hash`.
+An icon can be the symbol `#`.
+
+Following the convention of other shells, e.g. `sh`, `bash`, `zsh`, `fish`.
+
+Candidates for names:
+
+- hsell
+- hshell
+- hssh
+- hassh
+- hsh
+
+Unupdated readme follows, pending updates:
+
 # hell [![Hackage](https://img.shields.io/hackage/v/hell.svg?style=flat)](https://hackage.haskell.org/package/hell)
 
 A Haskell shell.
